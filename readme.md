@@ -9,3 +9,8 @@ Table of Contents
 4. Manitoba
 5. Alberta
 6. PEI
+
+Data contained in each file:
+1. Capital city
+2. Population
+
