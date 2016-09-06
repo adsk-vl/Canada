@@ -8,9 +8,11 @@ Table of Contents
 3. Nova Scotia
 4. Manitoba
 5. Alberta
-6. PEI
+6. New Brunswick
 
 Data contained in each file:
 1. Capital city
 2. Population
+3. Land Area
+4. Date Entered
 
